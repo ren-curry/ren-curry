@@ -1,6 +1,6 @@
 # Hello there 👋🤓
 
-I'm Ren! A data scientist and developer passionate about efficiency, especially creating means of making our daily lives earlier for work or life.
+I'm Ren! A data scientist and developer passionate about efficiency, especially creating means of making our daily lives easier for work or life.
 
 Join me in my adventure:
 * Programming in Python 🐍
